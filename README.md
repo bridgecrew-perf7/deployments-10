@@ -1,5 +1,4 @@
 # Jack Jona - Deployments Tracker
-
 <!--
 This website is to keep track of the deployment location of all my projects.
 --->
@@ -31,8 +30,6 @@ Deployments
 
 ### Project And Deployment Location:
 
-<br />
-
 * [Jack Technology](https://jacktech.cf) | Netlify
 * [InstantMeet](https://instantmeet.jackjona.ga) | Netlify
 * [Jack Travels](https://travel.jackjona.ga) | Netlify
@@ -61,7 +58,6 @@ Deployments
 * [3D Website](https://3d.jackjona.ga) | Cloudflare Pages
 * [CuteDog - v1](https://dogv1.jackjona.ga) | Cloudflare Pages
 * [BRB Rentals - Search Page](https://brbrentals.jackjona.ga) | Cloudflare Pages
-
 <br />
 
 * [ForYou Accounting](https://foryouaccounting.ga) | Gatsby Cloud
@@ -73,7 +69,6 @@ Deployments
 * [Showcase (My Project Showcase Website)](https://showcase.jackjona.ga) | Gatsby Cloud
 * [SurviHealth](https://survihealth.ga) | Gatsby Cloud
 * [TreePlanters](https://treeplanters.ga) | Gatsby Cloud
-
 <br />
 
 * [Personal Website - v2 (alt)](https://alt.jackjona.ga) | Vercel
@@ -84,19 +79,16 @@ Deployments
 * [To Do](https://todo.jackjona.ga) | Vercel
 * [Scriber](https://www.scriber.ga) | Vercel
 * [AMZN Clone](https://www.amzn-clone.ga) | Vercel
-
 <br />
 
 * [Deployment Tracker (This Website)](https://deployments.jackjona.ga) | Github Pages
 * [Listers Steakhouse](https://www.jackrestaurant.ga) | Github Pages
 * [Personal Website - Miminal](https://minimal.jackjona.live) | Github Pages
 * [Nothing Here Website](https://netflix.jackjona.live) | Github Pages
-
 <br />
 
 * [Cryptser](https://cryptser.ga) | Render
 * [BRB Rentals - v1](https://brb-v1.jackjona.ga) | Render
-
 <br />
 
 ### Explanation:
@@ -118,20 +110,77 @@ This way I decide on where to deploy my project is pretty simple. If it's a Gats
 
 * [Jack Solutions](https://jacksolutions.ga) | ProFreeHost
 * [Jack Technology (Redirects to Static Site)](https://jacktech.cf) | ProFreeHost
-
 <br />
 
 * [Jack Jona - Old](https://jackjona.ml) | Infinity Free
 * [Modern Apparel](https://www.modernapparel.ga) | Infinity Free
-
 <br />
 
 * [CloudHack](https://cloudhacktech.ga) | ByetHost
+<br />
 
 ### Note:
 
 Most of the Wordpress sites have been converted to static sites. For example, [Jack Solutions Wordpress](https://jacksolutions.ga) was converted to [Jack Solutions Static](https://jacksolutions.cf). The reason for this is the speed and security improvments that come with static sites. However, you do lose the dynamic functionality of Wordpress sites.
 
+## All Sites Alphabetically:
+
+* [3D Website](https://3d.jackjona.ga) | Cloudflare Pages
+* [4All Creative](https://www.4allcreative.ga) | Cloudflare Pages
+* [AMZN Clone](https://www.amzn-clone.ga) | Vercel
+* [BRB Rentals - Search Page](https://brbrentals.jackjona.ga) | Cloudflare Pages
+* [BRB Rentals - v1](https://brb-v1.jackjona.ga) | Render
+* [BRB Rentals](https://brbrentals.ga) | Vercel
+* [BigBucks](https://www.bigbucks.ga) | Cloudflare Pages
+* [COVID-19 Tracker](https://covid.jackjona.ga) | Cloudflare Pages
+* [ChatApp - v2](https://chatv2.jackjona.ga) | Cloudflare Pages
+* [Clearnet](https://clearnet.ga) | Cloudflare Pages
+* [CloudHack Technologies](https://cloudhacktech.cf) | Netlify
+* [Cosflix - v1](https://v1.cosflix.ga) | Netlify
+* [Cosflix](https://www.cosflix.ga) | Vercel
+* [Cryptser](https://cryptser.ga) | Render
+* [CuteDog - Production](https://www.cutedog.gq) | Netlify
+* [CuteDog - v1](https://dogv1.jackjona.ga) | Cloudflare Pages
+* [Deployment Tracker (This Website)](https://deployments.jackjona.ga) | Github Pages
+* [Disney Plus Clone](https://disney-plus.ga) | Netlify
+* [ForYou Accounting](https://foryouaccounting.ga) | Gatsby Cloud
+* [FreeMind](https://free-mind.ga) | Gatsby Cloud
+* [Hulu Clone](https://hulu.jackjona.ga) | Netlify
+* [InstaResume](https://instaresume.jackjona.ga) | Gatsby Cloud
+* [InstantMeet](https://instantmeet.jackjona.ga) | Netlify
+* [JJHangout](https://hangout.jackjona.ga) | Gatsby Cloud
+* [Jack Solutions](https://jacksolutions.cf) | Netlify
+* [Jack Technology](https://jacktech.cf) | Netlify
+* [Jack Travels](https://travel.jackjona.ga) | Netlify
+* [Listers Steakhouse](https://www.jackrestaurant.ga) | Github Pages
+* [My Blog (Jack Blog)](https://jackblog.ga) | Gatsby Cloud
+* [NitChat](https://www.nitchat.ga) | Vercel
+* [Nothing Here Website](https://netflix.jackjona.live) | Github Pages
+* [OnTrck - Landing Page](https://ontrck.jackjona.ga) | Gatsby Cloud
+* [OnTrck Application](https://app.ontrck.jackjona.ga) | Netlify
+* [Personal Website - Miminal](https://minimal.jackjona.live) | Github Pages
+* [Personal Website - Old Original](https://old.jackjona.ga) | Netlify
+* [Personal Website - Production](https://www.jackjona.ga) | Netlify
+* [Personal Website - v1](https://v1.jackjona.ga) | Cloudflare Pages
+* [Personal Website - v2 (alt)](https://alt.jackjona.ga) | Vercel
+* [Pizza4All - v1](https://pizza-v1) | Cloudflare Pages
+* [ReachHigh](https://reachhigh.jackjona.ga) | Cloudflare Pages
+* [Scriber](https://www.scriber.ga) | Vercel
+* [Shop](https://modernapparel.ga) | Netlify
+* [Showcase (My Project Showcase Website)](https://showcase.jackjona.ga) | Gatsby Cloud
+* [Spotify Alternative Front End](https://spotify-alt.ga) | Vercel
+* [SurviHealth](https://survihealth.ga) | Gatsby Cloud
+* [Text To Speech](https://tts.jackjona.ga) | Cloudflare Pages
+* [To Do](https://todo.jackjona.ga) | Vercel
+* [TreePlanters](https://treeplanters.ga) | Gatsby Cloud
+* [Whatsapp Clone](https://whatsapp-clone.jackjona.ga) | Netlify
+<br />
+
+* [CloudHack](https://cloudhacktech.ga) | ByetHost
+* [Jack Jona - Old](https://jackjona.ml) | Infinity Free
+* [Jack Solutions](https://jacksolutions.ga) | ProFreeHost
+* [Jack Technology (Redirects to Static Site)](https://jacktech.cf) | ProFreeHost
+* [Modern Apparel](https://www.modernapparel.ga) | Infinity Free
 <br />
 
 *© 2021 Jack Jona | Built With ❤️*
